@@ -1,0 +1,10 @@
+{
+	"name": "pome-bt",
+	"version": "0.0.1", 
+	"dependencies": {
+	}, 
+	"devDependencies": {
+		"should": "^11.1.1",
+        "mocha": "^3.2.0"
+	}
+}
